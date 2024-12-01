@@ -1,10 +1,6 @@
-Here’s a complete and polished example of a GitHub portfolio README.md file incorporating everything requested, including clickable buttons, interactivity, and unique features:
+# Hi, I'm Javier 👋  
 
----
-
-# Hi, I'm [Your Name] 👋  
-
-Welcome to my GitHub portfolio! I am a [Your Title, e.g., Cybersecurity Analyst] with a passion for solving real-world cybersecurity challenges. My expertise lies in [list 2-3 key areas, e.g., SOC operations, Digital Forensics, and Threat Intelligence]. I am currently pursuing [e.g., graduate studies or certification] and aiming to grow as a [specific career goal, e.g., Tier 1 SOC Analyst].
+Welcome to my GitHub portfolio! I am a cybersecurity student at Pennsylvania State University with a passion for solving real-world cybersecurity challenges. My expertise lies in SOC operations, Digital Forensics, and Threat Intelligence. I am currently pursuing the CCNA certification for Cisco networking knowldege and aiming to grow as a Cyber Defender.
 
 ---
 
@@ -68,12 +64,3 @@ Feel free to reach out or connect with me:
 ![Coding Animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 ---
-
-### Features Explained:
-1. **Interactive Buttons**: Direct links to your GitHub projects with styled badges.  
-2. **Dynamic Stats**: Automatically updated stats from GitHub.  
-3. **Certifications**: Visualized with badges linking to certification details.  
-4. **Skills Table**: Organized and linked to relevant projects.  
-5. **Animated GIF**: Adds a personal and dynamic touch.  
-
-Customize this template to fit your style and expertise!
