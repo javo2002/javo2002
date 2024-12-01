@@ -9,14 +9,19 @@ Welcome to my GitHub portfolio! I am a cybersecurity student at Pennsylvania Sta
 My journey into cybersecurity stems from my passion for protecting digital assets. I aim to utilize my skills to detect, respond to, and mitigate cyber threats, particularly in Security Operations Centers (SOC). I am excited to contribute to projects and environments that focus on automation, investigation, and prevention in cybersecurity.
 
 ---
+Here’s a cleaner and visually balanced version of your **Certifications** section tailored to highlight only your **CompTIA Security+ certification**:
+
+---
 
 ## 🏆 Certifications
 
-| Certification      | Issued By       | Issue Date  | Credential Link                                             |
-|--------------------|-----------------|-------------|------------------------------------------------------------|
-| ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-blue) | ![CompTIA Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/CompTIA_logo.svg/120px-CompTIA_logo.svg.png) [CompTIA](https://www.comptia.org/) | January 2023 | [View Credential](https://www.credly.com/badges/your-badge-id) |
-| ![AWS Certified](https://img.shields.io/badge/AWS-Solutions%20Architect-yellow) | ![AWS Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/120px-Amazon_Web_Services_Logo.svg.png) [AWS](https://aws.amazon.com/) | June 2023    | [View Credential](https://aws.com/certification-link)         |
+### **CompTIA Security+**
 
+![CompTIA Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/CompTIA_logo.svg/150px-CompTIA_logo.svg.png)
+
+- **Issuer**: [CompTIA](https://www.comptia.org/)  
+- **Issued Date**: January 2023  
+- **Credential**: [View Certification](https://www.credly.com/badges/your-badge-id)
 
 ---
 
