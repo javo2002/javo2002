@@ -10,6 +10,12 @@ My journey into cybersecurity stems from my passion for protecting digital asset
 
 ---
 
+## 🏆 Certifications
+[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-blue)](https://www.credly.com/badges/5386daf1-dd5a-4637-a0f3-fbc3b5e3eaac/public_url)
+[![AWS Certified](https://img.shields.io/badge/AWS-Solutions%20Architect-yellow)](https://aws.com/certification-link)
+
+---
+
 ## 🛠 Skills & Tools
 
 | **Skill**                           | **Associated Project**                                   |
@@ -46,13 +52,6 @@ Performed traffic analysis on PCAP files to investigate webshell behavior and st
 
 ## 📊 GitHub Stats  
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-
----
-
-### Certifications Timeline
-- 🏆 [CompTIA Security+](https://www.credly.com/badges/your-badge-id) (Jan 2023)
-- 🌟 [AWS Certified Solutions Architect](https://aws.com/certification-link) (June 2023)
-- 📜 [Microsoft Azure Fundamentals](https://azure.com/certification-link) (Oct 2023)
 
 ---
 
