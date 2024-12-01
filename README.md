@@ -14,14 +14,10 @@ Here’s a cleaner and visually balanced version of your **Certifications** sect
 ---
 
 ## 🏆 Certifications
-
-### **CompTIA Security+**
-
-![CompTIA Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/CompTIA_logo.svg/150px-CompTIA_logo.svg.png)
-
-- **Issuer**: [CompTIA](https://www.comptia.org/)  
-- **Issued Date**: January 2023  
-- **Credential**: [View Certification](https://www.credly.com/badges/your-badge-id)
+| Certification        | Issued By       | Date        | Link                      |
+|----------------------|-----------------|-------------|---------------------------|
+| Security+            | CompTIA         | MM/DD/YYYY  | [View Certification](https://www.credly.com/badges/5386daf1-dd5a-4637-a0f3-fbc3b5e3eaac/public_url) |
+| AWS Certified Cloud Practitioner | AWS | MM/DD/YYYY | [View Certification](https://aws.com/certification) |
 
 ---
 
