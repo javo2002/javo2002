@@ -16,8 +16,8 @@ Here’s a cleaner and visually balanced version of your **Certifications** sect
 ## 🏆 Certifications
 | Certification        | Issued By       | Date        | Link                      |
 |----------------------|-----------------|-------------|---------------------------|
-| Security+            | CompTIA         | MM/DD/YYYY  | [View Certification](https://www.credly.com/badges/5386daf1-dd5a-4637-a0f3-fbc3b5e3eaac/public_url) |
-| AWS Certified Cloud Practitioner | AWS | MM/DD/YYYY | [View Certification](https://aws.com/certification) |
+| Security+            | CompTIA         | 7/2024  | [View Certification](https://www.credly.com/badges/5386daf1-dd5a-4637-a0f3-fbc3b5e3eaac/public_url) |
+| Google Cybersecurity Specialization | Coursera | 7/2024 | [View Certification](https://www.coursera.org/account/accomplishments/specialization/3KAZ2UT5LSAS) |
 
 ---
 
