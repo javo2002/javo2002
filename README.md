@@ -11,8 +11,12 @@ My journey into cybersecurity stems from my passion for protecting digital asset
 ---
 
 ## 🏆 Certifications
-[![Security+](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5386daf1-dd5a-4637-a0f3-fbc3b5e3eaac" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)](https://www.credly.com/badges/5386daf1-dd5a-4637-a0f3-fbc3b5e3eaac/public_url)
-[![AWS Certified](https://img.shields.io/badge/AWS-Solutions%20Architect-yellow)](https://aws.com/certification-link)
+
+| Certification      | Issued By       | Issue Date  | Credential Link                                             |
+|--------------------|-----------------|-------------|------------------------------------------------------------|
+| ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-blue) | ![CompTIA Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/CompTIA_logo.svg/120px-CompTIA_logo.svg.png) [CompTIA](https://www.comptia.org/) | January 2023 | [View Credential](https://www.credly.com/badges/your-badge-id) |
+| ![AWS Certified](https://img.shields.io/badge/AWS-Solutions%20Architect-yellow) | ![AWS Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/120px-Amazon_Web_Services_Logo.svg.png) [AWS](https://aws.amazon.com/) | June 2023    | [View Credential](https://aws.com/certification-link)         |
+
 
 ---
 
