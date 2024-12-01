@@ -49,9 +49,10 @@ Performed traffic analysis on PCAP files to investigate webshell behavior and st
 
 ---
 
-## 🏆 Certifications  
-- [![Security+](https://img.shields.io/badge/Security+-Certified-blue)](https://www.credly.com/badges/5386daf1-dd5a-4637-a0f3-fbc3b5e3eaac/public_url)  
-- [![Certified Ethical Hacker](https://img.shields.io/badge/CEH-Certified-red)](https://www.yourcertificationlink.com)  
+### Certifications Timeline
+- 🏆 [CompTIA Security+](https://www.credly.com/badges/your-badge-id) (Jan 2023)
+- 🌟 [AWS Certified Solutions Architect](https://aws.com/certification-link) (June 2023)
+- 📜 [Microsoft Azure Fundamentals](https://azure.com/certification-link) (Oct 2023)
 
 ---
 
