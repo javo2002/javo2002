@@ -41,7 +41,7 @@ My journey into cybersecurity stems from my passion for protecting digital asset
 Simulated real-world enterprise environments to practice blue and red team operations, including log analysis and group policy management.  
 [![View Project](https://img.shields.io/badge/View-Project-green)](https://github.com/javo2002/Active-Directory-Analysis)
 
-- **Python** , **Splunk** , 
+--- **Python** , **Splunk** , 
 
 ### Customer Database Analysis Lab  
 Automated security incident detection, analysis, and response of DB by integrating Splunk (SIEM), and SQLite3 (Database).  
