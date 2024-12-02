@@ -9,19 +9,12 @@ Welcome to my GitHub portfolio! I am a cybersecurity student at Pennsylvania Sta
 My journey into cybersecurity stems from my passion for protecting digital assets. I aim to utilize my skills to detect, respond to, and mitigate cyber threats, particularly in Security Operations Centers (SOC). I am excited to contribute to projects and environments that focus on automation, investigation, and prevention in cybersecurity.
 
 ---
-Here’s a cleaner and visually balanced version of your **Certifications** section tailored to highlight only your **CompTIA Security+ certification**:
-
----
 
 ## 🏆 Certifications
 | Certification        | Issued By       | Date        | Link                      |
 |----------------------|-----------------|-------------|---------------------------|
 | Security+            | CompTIA         | 7/2024  | [View Certification](https://www.credly.com/badges/5386daf1-dd5a-4637-a0f3-fbc3b5e3eaac/public_url) |
 | Google Cybersecurity Specialization | Coursera | 7/2024 | [View Certification](https://www.coursera.org/account/accomplishments/specialization/3KAZ2UT5LSAS) |
-
----
-
-To link the projects in the "Skills & Tools" section to the same links as in the "Projects" section, you can update the "Associated Project" column in the table to include hyperlinks. Here’s an updated version of that section:
 
 ---
 
@@ -34,9 +27,9 @@ To link the projects in the "Skills & Tools" section to the same links as in the
 | **Threat Intelligence Integration** | [Coming Soon](#projects)                         |
 
 ### Tools
-- **Network**: Wireshark, Zeek  
+- **Network**: Wireshark  
 - **Endpoint**: Wazuh  
-- **SIEM**: Splunk, Elastic Security  
+- **SIEM**: Splunk, Microsoft Sentinel
 - **Threat Intelligence**: MISP, Shuffle  
 
 ---
