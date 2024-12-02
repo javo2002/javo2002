@@ -31,8 +31,6 @@ To link the projects in the "Skills & Tools" section to the same links as in the
 |-------------------------------------|---------------------------------------------------------|
 | **SIEM Implementation & Log Analysis** | [Active Directory Lab](https://github.com/javo2002/Active-Directory-Analysis), [Customer Database Analysis Lab](https://github.com/javo2002/Customer-Database-SIEM-Analysis)                    |
 | **Network Traffic Monitoring**      | [Wireshark Lab](https://github.com/javo2002/Wireshark-Basics)                        |
-| **Security Automation**             | [SOC Automation Lab](https://github.com/yourusername/soc-automation-lab)                       |
-| **Incident Response Planning**      | [Incident Response Presentation](#projects)                    |
 | **Threat Intelligence Integration** | [Coming Soon](#projects)                         |
 
 ### Tools
