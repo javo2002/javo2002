@@ -29,11 +29,11 @@ To link the projects in the "Skills & Tools" section to the same links as in the
 
 | **Skill**                           | **Associated Project**                                   |
 |-------------------------------------|---------------------------------------------------------|
-| **SIEM Implementation & Log Analysis** | [Active Directory Lab](https://github.com/javo2002/Customer-Database-SIEM-Analysis), [Customer Database Analysis Lab](https://github.com/javo2002/Customer-Database-SIEM-Analysis)                    |
-| **Network Traffic Monitoring**      | [Wireshark Lab](https://github.com/javo2002/Wireshark-Basics/blob/main/README.md)                        |
+| **SIEM Implementation & Log Analysis** | [Active Directory Lab](https://github.com/javo2002/Active-Directory-Analysis), [Customer Database Analysis Lab](https://github.com/javo2002/Customer-Database-SIEM-Analysis)                    |
+| **Network Traffic Monitoring**      | [Wireshark Lab](https://github.com/javo2002/Wireshark-Basics)                        |
 | **Security Automation**             | [SOC Automation Lab](https://github.com/yourusername/soc-automation-lab)                       |
-| **Incident Response Planning**      | [Incident Response Lab](#projects)                    |
-| **Threat Intelligence Integration** | [EDR-SOAR Project](#projects)                         |
+| **Incident Response Planning**      | [Incident Response Presentation](#projects)                    |
+| **Threat Intelligence Integration** | [Coming Soon](#projects)                         |
 
 ### Tools
 - **Network**: Wireshark, Zeek  
@@ -47,7 +47,7 @@ To link the projects in the "Skills & Tools" section to the same links as in the
 
 ### Active Directory Lab  
 Simulated real-world enterprise environments to practice blue and red team operations, including log analysis and group policy management.  
-[![View Project](https://img.shields.io/badge/View-Project-green)](https://github.com/javo2002/Customer-Database-SIEM-Analysis)
+[![View Project](https://img.shields.io/badge/View-Project-green)](https://github.com/javo2002/Active-Directory-Analysis)
 
 ### Customer Database Analysis Lab  
 Automated security incident detection, analysis, and response of DB by integrating Splunk (SIEM), and SQLite3 (Database).  
@@ -55,7 +55,7 @@ Automated security incident detection, analysis, and response of DB by integrati
 
 ### Wireshark Lab  
 Performed traffic analysis on PCAP files to investigate webshell behavior and strengthen detection capabilities.  
-[![View Project](https://img.shields.io/badge/View-Project-red)](https://github.com/yourusername/webshell-lab)
+[![View Project](https://img.shields.io/badge/View-Project-red)](https://github.com/javo2002/Wireshark-Basics)
 
 
 ---
