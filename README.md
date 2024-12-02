@@ -64,20 +64,8 @@ Performed traffic analysis on PCAP files to investigate webshell behavior and st
 ---
 
 ## 💬 Let's Connect  
-Feel free to reach out or connect with me:  
-- **Email**: [your.email@example.com](mailto:your.email@example.com)  
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-profile)  
-- **Portfolio Website**: [yourwebsite.com](https://yourwebsite.com)  
-
+Feel free to reach out or connect with me!
 ![Coding Animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 ---
 
-### Features Explained:
-1. **Interactive Buttons**: Direct links to your GitHub projects with styled badges.  
-2. **Dynamic Stats**: Automatically updated stats from GitHub.  
-3. **Certifications**: Visualized with badges linking to certification details.  
-4. **Skills Table**: Organized and linked to relevant projects.  
-5. **Animated GIF**: Adds a personal and dynamic touch.  
-
-Customize this template to fit your style and expertise!
