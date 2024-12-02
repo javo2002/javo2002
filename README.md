@@ -25,7 +25,7 @@ Here’s a cleaner and visually balanced version of your **Certifications** sect
 
 | **Skill**                           | **Associated Project**                                   |
 |-------------------------------------|---------------------------------------------------------|
-| **SIEM Implementation & Log Analysis** | [Active Directory Lab](#projects)                     |
+| **SIEM Implementation & Log Analysis** | [Active Directory Lab](#projects), [Customer Database Log Analysis](#projects)                    |
 | **Network Traffic Monitoring**      | [Webshell BTLO Labs](#projects)                        |
 | **Security Automation**             | [SOC Automation Lab](#projects)                       |
 | **Incident Response Planning**      | [Incident Response Lab](#projects)                    |
