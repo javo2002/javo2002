@@ -51,7 +51,7 @@ Automated security incident detection, analysis, and response by integrating Waz
 
 ### Active Directory Lab  
 Simulated real-world enterprise environments to practice blue and red team operations, including log analysis and group policy management.  
-[![View Project](https://img.shields.io/badge/View-Project-green)](https://github.com/yourusername/ad-lab)
+[![View Project](https://img.shields.io/badge/View-Project-green)](https://github.com/javo2002/Customer-Database-SIEM-Analysis)
 
 ### Webshell BTLO Lab  
 Performed traffic analysis on PCAP files to investigate webshell behavior and strengthen detection capabilities.  
