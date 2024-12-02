@@ -18,7 +18,7 @@ My journey into cybersecurity stems from my passion for protecting digital asset
 
 ---
 
-## 🛠 Skills & Tools
+## 📊 Skills  
 
 | **Skill**                           | **Associated Project**                                   |
 |-------------------------------------|---------------------------------------------------------|
@@ -26,7 +26,9 @@ My journey into cybersecurity stems from my passion for protecting digital asset
 | **Network Traffic Monitoring**      | [Wireshark Lab](https://github.com/javo2002/Wireshark-Basics)                        |
 | **Threat Intelligence Integration** | [Coming Soon](#projects)                         |
 
----
+---  
+
+Anything else you'd like to adjust?
 
 ## 🚀 Projects  
 
