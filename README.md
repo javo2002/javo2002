@@ -26,31 +26,24 @@ My journey into cybersecurity stems from my passion for protecting digital asset
 | **Network Traffic Monitoring**      | [Wireshark Lab](https://github.com/javo2002/Wireshark-Basics)                        |
 | **Threat Intelligence Integration** | [Coming Soon](#projects)                         |
 
-### Tools
-- **Programming**: Python
-- **Network**: Wireshark  
-- **Endpoint**: Wazuh  
-- **SIEM**: Splunk, Microsoft Sentinel
-- **Threat Intelligence**: MISP, Shuffle  
-
 ---
 
 ## 🚀 Projects  
 
 ### Active Directory Lab  
 Simulated real-world enterprise environments to practice blue and red team operations, including log analysis and group policy management.  
-[![View Project](https://img.shields.io/badge/View-Project-green)](https://github.com/javo2002/Active-Directory-Analysis)
-
---- **Python** , **Splunk** , 
+[![View Project](https://img.shields.io/badge/View-Project-green)](https://github.com/javo2002/Active-Directory-Analysis)  
+**Tools:** Python, Splunk, Windows Server, Group Policy Management  
 
 ### Customer Database Analysis Lab  
-Automated security incident detection, analysis, and response of DB by integrating Splunk (SIEM), and SQLite3 (Database).  
-[![View Project](https://img.shields.io/badge/View-Project-blue)](https://github.com/javo2002/Customer-Database-SIEM-Analysis)
+Automated security incident detection, analysis, and response of databases by integrating Splunk (SIEM) and SQLite3 (Database).  
+[![View Project](https://img.shields.io/badge/View-Project-blue)](https://github.com/javo2002/Customer-Database-SIEM-Analysis)  
+**Tools:** Python, Splunk, SQLite3  
 
 ### Wireshark Lab  
 Performed traffic analysis on PCAP files to investigate webshell behavior and strengthen detection capabilities.  
-[![View Project](https://img.shields.io/badge/View-Project-red)](https://github.com/javo2002/Wireshark-Basics)
-
+[![View Project](https://img.shields.io/badge/View-Project-red)](https://github.com/javo2002/Wireshark-Basics)  
+**Tools:** Wireshark, Python, PCAP Analysis  
 
 ---
 
