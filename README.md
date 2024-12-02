@@ -43,7 +43,7 @@ Here’s a cleaner and visually balanced version of your **Certifications** sect
 
 ### Customer Database Analysis Lab  
 Automated security incident detection, analysis, and response of DB by integrating Splunk (SIEM), and SQLite3 (Database).  
-[![View Project](https://img.shields.io/badge/View-Project-blue)](https://github.com/yourusername/soc-automation-lab)
+[![View Project](https://img.shields.io/badge/View-Project-blue)](https://github.com/javo2002/Customer-Database-SIEM-Analysis)
 
 ### SOC Automation Lab  
 Automated security incident detection, analysis, and response by integrating Wazuh (SIEM), TheHive (case management), and Shuffle (SOAR).  
