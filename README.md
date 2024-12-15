@@ -30,7 +30,7 @@ My journey into cybersecurity stems from my passion for protecting digital asset
 ## 🚀 Projects  
 
 ### Honeypot Lab  
-Simulated vulnerable services through Cowrie honeypot to collect and analyze malicious traffic.
+Simulated vulnerable services through Cowrie honeypot to collect and analyze malicious traffic.  
 **Date:** 12/2024  
 [![View Project](https://img.shields.io/badge/View-Project-yellow)](https://github.com/javo2002/Honeypot-Lab)  
 **Tools:** , Cowrie, Linux Terminal, ELK Stack 
