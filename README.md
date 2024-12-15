@@ -22,7 +22,7 @@ My journey into cybersecurity stems from my passion for protecting digital asset
 
 | **Skill**                           | **Associated Project**                                   |
 |-------------------------------------|---------------------------------------------------------|
-| **SIEM Implementation & Log Analysis** | [Active Directory Lab](https://github.com/javo2002/Active-Directory-Analysis), [Customer Database Analysis Lab](https://github.com/javo2002/Customer-Database-SIEM-Analysis) |
+| **SIEM Implementation & Log Analysis** | [Active Directory Lab](https://github.com/javo2002/Active-Directory-Analysis), [Customer Database Analysis Lab](https://github.com/javo2002/Customer-Database-SIEM-Analysis), [Honeypot Lab](https://github.com/javo2002/Cowrie-Honeypot) |
 | **Network Traffic Monitoring**      | [Wireshark Lab](https://github.com/javo2002/Wireshark-Basics)            |
 
 ---
@@ -32,7 +32,7 @@ My journey into cybersecurity stems from my passion for protecting digital asset
 ### Honeypot Lab  
 Simulated vulnerable services through Cowrie honeypot to collect and analyze malicious traffic.  
 **Date:** 12/2024  
-[![View Project](https://img.shields.io/badge/View-Project-yellow)](https://github.com/javo2002/Honeypot-Lab)  
+[![View Project](https://img.shields.io/badge/View-Project-yellow)](https://github.com/javo2002/Cowrie-Honeypot)  
 **Tools:** , Cowrie, Linux Terminal, ELK Stack 
 
 ### Wireshark Lab  
