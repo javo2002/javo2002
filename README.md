@@ -31,7 +31,6 @@ My journey into cybersecurity stems from my passion for protecting digital asset
 
 ### Honeypot Lab  
 The goal of this project is to simulate vulnerable services using Cowrie to collect and analyze malicious traffic. Logs from the honeypot are forwarded to a remote logging server for detailed monitoring and forensic analysis.
-
 **Date:** 12/2024  
 [![View Project](https://img.shields.io/badge/View-Project-yellow)](https://github.com/javo2002/Honeypot-Lab)  
 **Tools:** , Cowrie, Linux Terminal, ELK Stack 
