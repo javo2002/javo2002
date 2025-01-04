@@ -15,6 +15,12 @@ Welcome to my GitHub portfolio! I am a cybersecurity student at Pennsylvania Sta
 
 ## 🚀 Projects  
 
+### SOAR EDR Lab
+Simulated real-world enterprise environments to practice blue and red team operations, including log analysis and group policy management.  
+**Date:** 01/2025  
+[![View Project](https://img.shields.io/badge/View-Project-informational)](https://github.com/javo2002/SOAR-EDR)  
+**Tools:** LimaCharlie, Tines, Slack Email  
+
 ### Active Directory Lab  
 Simulated real-world enterprise environments to practice blue and red team operations, including log analysis and group policy management.  
 **Date:** 07/2024  
