@@ -13,15 +13,6 @@ Welcome to my GitHub portfolio! I am a cybersecurity student at Pennsylvania Sta
 
 ---
 
-## 📊 Skills  
-
-| **Skill**                           | **Associated Project**                                   |
-|-------------------------------------|---------------------------------------------------------|
-| **SIEM Implementation & Log Analysis** | [Active Directory Lab](https://github.com/javo2002/Active-Directory-Analysis), [Customer Database Analysis Lab](https://github.com/javo2002/Customer-Database-SIEM-Analysis), [Honeypot Lab](https://github.com/javo2002/Cowrie-Honeypot) |
-| **Network Traffic Monitoring**      | [Wireshark Lab](https://github.com/javo2002/Wireshark-Basics)            |
-
----
-
 ## 🚀 Projects  
 
 ### Honeypot Lab  
