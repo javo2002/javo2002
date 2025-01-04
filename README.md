@@ -25,7 +25,7 @@ Simulated real-world enterprise environments to practice blue and red team opera
 Simulated vulnerable services through Cowrie honeypot to collect and analyze malicious traffic.  
 **Date:** 12/2024  
 [![View Project](https://img.shields.io/badge/View-Project-informational)](https://github.com/javo2002/Cowrie-Honeypot)  
-**Tools:** , Cowrie, Linux Terminal, ELK Stack
+**Tools:** Cowrie, Linux Terminal, ELK Stack
 
 ### Firewall Configuration with VyOS  
 Configured and secured a VyOS router to manage traffic between a local network, a DMZ, and a simulated Internet connection, implementing firewall rules and routing policies to optimize network security and performance.  
