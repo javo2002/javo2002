@@ -22,7 +22,7 @@ Simulated vulnerable services through Cowrie honeypot to collect and analyze mal
 **Tools:** , Cowrie, Linux Terminal, ELK Stack
 
 ### Firewall Configuration with VyOS  
-Configured and secured a VyOS router to manage traffic between a local network, a DMZ, and a simulated Internet connection, implementing firewall rules and routing policies to optimize network security and performance.
+Configured and secured a VyOS router to manage traffic between a local network, a DMZ, and a simulated Internet connection, implementing firewall rules and routing policies to optimize network security and performance.  
 **Date:** 10/2024  
 [![View Project](https://img.shields.io/badge/View-Project-blue)](https://github.com/javo2002/Firewall-Configuration-VyOS)  
 **Tools:** VyOS Virtual Router, Unix/Linux CLI
