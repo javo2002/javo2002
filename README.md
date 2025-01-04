@@ -18,7 +18,7 @@ Welcome to my GitHub portfolio! I am a cybersecurity student at Pennsylvania Sta
 ### Honeypot Lab  
 Simulated vulnerable services through Cowrie honeypot to collect and analyze malicious traffic.  
 **Date:** 12/2024  
-[![View Project](https://img.shields.io/badge/View-Project-yellow)](https://github.com/javo2002/Cowrie-Honeypot)  
+[![View Project](https://img.shields.io/badge/View-Project-informational)](https://github.com/javo2002/Cowrie-Honeypot)  
 **Tools:** , Cowrie, Linux Terminal, ELK Stack
 
 ### Firewall Configuration with VyOS  
