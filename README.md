@@ -1,12 +1,6 @@
 # Hi, I'm Javier 👋  
 
-Welcome to my GitHub portfolio! I am a cybersecurity student at Pennsylvania State University with a passion for solving real-world cybersecurity challenges. My expertise lies in SOC operations, Digital Forensics, and Threat Intelligence. I am currently pursuing the CCNA certification for Cisco networking knowledge and aiming to grow as a Cyber Defender.
-
----
-
-## 🎯 Objective
-
-My journey into cybersecurity stems from my passion for protecting digital assets. I aim to utilize my skills to detect, respond to, and mitigate cyber threats, particularly in Security Operations Centers (SOC). I am excited to contribute to projects and environments that focus on automation, investigation, and prevention in cybersecurity.
+Welcome to my GitHub portfolio! I am a cybersecurity student at Pennsylvania State University with a passion for solving real-world cybersecurity challenges. My expertise lies in SOC operations, Digital Forensics, and Threat Intelligence. I am currently pursuing the Network+ certification for networking knowledge and aiming to grow as a Cyber Defender.
 
 ---
 
@@ -15,7 +9,7 @@ My journey into cybersecurity stems from my passion for protecting digital asset
 |----------------------|-----------------|-------------|---------------------------|
 | Security+            | CompTIA         | 07/2024     | [View Certification](https://www.credly.com/badges/5386daf1-dd5a-4637-a0f3-fbc3b5e3eaac/public_url) |
 | Google Cybersecurity Specialization | Coursera     | 07/2024     | [View Certification](https://www.coursera.org/account/accomplishments/specialization/3KAZ2UT5LSAS) |
-| CCNA | Cisco | 01/2025 | |
+| Network+ | CompTIA | 02/2025 | |
 
 ---
 
@@ -34,7 +28,13 @@ My journey into cybersecurity stems from my passion for protecting digital asset
 Simulated vulnerable services through Cowrie honeypot to collect and analyze malicious traffic.  
 **Date:** 12/2024  
 [![View Project](https://img.shields.io/badge/View-Project-yellow)](https://github.com/javo2002/Cowrie-Honeypot)  
-**Tools:** , Cowrie, Linux Terminal, ELK Stack 
+**Tools:** , Cowrie, Linux Terminal, ELK Stack
+
+### Firewall Configuration with VyOS  
+Configured and secured a VyOS router to manage traffic between a local network, a DMZ, and a simulated Internet connection, implementing firewall rules and routing policies to optimize network security and performance.
+**Date:** 10/2024  
+[![View Project](https://img.shields.io/badge/View-Project-blue)](https://github.com/javo2002/Firewall-Configuration-VyOS)  
+**Tools:** VyOS Virtual Router, Unix/Linux CLI
 
 ### Wireshark Lab  
 Performed traffic analysis on PCAP files to investigate webshell behavior and strengthen detection capabilities.  
