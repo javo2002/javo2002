@@ -15,6 +15,12 @@ Welcome to my GitHub portfolio! I am a cybersecurity student at Pennsylvania Sta
 
 ## 🚀 Projects  
 
+### Active Directory Lab  
+Simulated real-world enterprise environments to practice blue and red team operations, including log analysis and group policy management.  
+**Date:** 07/2024  
+[![View Project](https://img.shields.io/badge/View-Project-informational)](https://github.com/javo2002/Active-Directory-Analysis)  
+**Tools:** Python, Splunk, Windows Server  
+
 ### Honeypot Lab  
 Simulated vulnerable services through Cowrie honeypot to collect and analyze malicious traffic.  
 **Date:** 12/2024  
@@ -32,12 +38,6 @@ Performed traffic analysis on PCAP files to investigate webshell behavior and st
 **Date:** 09/2024  
 [![View Project](https://img.shields.io/badge/View-Project-informational)](https://github.com/javo2002/Wireshark-Basics)  
 **Tools:** Wireshark, Python, PCAP Analysis  
-
-### Active Directory Lab  
-Simulated real-world enterprise environments to practice blue and red team operations, including log analysis and group policy management.  
-**Date:** 07/2024  
-[![View Project](https://img.shields.io/badge/View-Project-informational)](https://github.com/javo2002/Active-Directory-Analysis)  
-**Tools:** Python, Splunk, Windows Server  
 
 ### Customer Database Analysis Lab  
 Automated security incident detection, analysis, and response of databases by integrating Splunk (SIEM) and SQLite3 (Database).  
