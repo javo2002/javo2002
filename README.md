@@ -24,25 +24,25 @@ Simulated vulnerable services through Cowrie honeypot to collect and analyze mal
 ### Firewall Configuration with VyOS  
 Configured and secured a VyOS router to manage traffic between a local network, a DMZ, and a simulated Internet connection, implementing firewall rules and routing policies to optimize network security and performance.  
 **Date:** 10/2024  
-[![View Project](https://img.shields.io/badge/View-Project-blue)](https://github.com/javo2002/Firewall-Configuration-VyOS)  
+[![View Project](https://img.shields.io/badge/View-Project-informational)](https://github.com/javo2002/Firewall-Configuration-VyOS)  
 **Tools:** VyOS Virtual Router, Unix/Linux CLI
 
 ### Wireshark Lab  
 Performed traffic analysis on PCAP files to investigate webshell behavior and strengthen detection capabilities.  
 **Date:** 09/2024  
-[![View Project](https://img.shields.io/badge/View-Project-red)](https://github.com/javo2002/Wireshark-Basics)  
+[![View Project](https://img.shields.io/badge/View-Project-informational)](https://github.com/javo2002/Wireshark-Basics)  
 **Tools:** Wireshark, Python, PCAP Analysis  
 
 ### Active Directory Lab  
 Simulated real-world enterprise environments to practice blue and red team operations, including log analysis and group policy management.  
 **Date:** 07/2024  
-[![View Project](https://img.shields.io/badge/View-Project-green)](https://github.com/javo2002/Active-Directory-Analysis)  
+[![View Project](https://img.shields.io/badge/View-Project-informational)](https://github.com/javo2002/Active-Directory-Analysis)  
 **Tools:** Python, Splunk, Windows Server  
 
 ### Customer Database Analysis Lab  
 Automated security incident detection, analysis, and response of databases by integrating Splunk (SIEM) and SQLite3 (Database).  
 **Date:** 07/2024  
-[![View Project](https://img.shields.io/badge/View-Project-blue)](https://github.com/javo2002/Customer-Database-SIEM-Analysis)  
+[![View Project](https://img.shields.io/badge/View-Project-informational)](https://github.com/javo2002/Customer-Database-SIEM-Analysis)  
 **Tools:** Python, Splunk, SQLite3  
 
 ---
