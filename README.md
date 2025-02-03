@@ -15,6 +15,11 @@ Welcome to my GitHub portfolio! I am a cybersecurity student at Pennsylvania Sta
 
 ## 🚀 Projects  
 
+### AI-Powered Honeypot Threat Intelligence System
+Deployment of honeypots to collect and process logs, then piped into AI-based attack classification scripts for automated reports & alerts on slack.  
+**Date:** In Progress...
+[![Coming Soon]
+
 ### SOAR EDR Lab
 Simulated real-world enterprise environments to practice blue and red team operations, including log analysis and group policy management.  
 **Date:** 01/2025  
