@@ -15,10 +15,11 @@ Welcome to my GitHub portfolio! I am a cybersecurity student at Pennsylvania Sta
 
 ## 🚀 Projects  
 
-### AI-Powered Honeypot Threat Intelligence System
-Deployment of honeypots to collect and process logs, then piped into AI-based attack classification scripts for automated reports & alerts on slack.  
-**Date:** In Progress...  
-[Coming Soon]
+### AI-Powered Phishing Detection API
+**Deployed Machine Learning API for Phishing Detection, Tested on up to 85,000 Emails, and Hosted Locally for Evaluating Email Legitimacy and URL Authenticity.**
+**Date:** 02/2025  
+[![View Project](https://img.shields.io/badge/View-Project-informational)](https://github.com/javo2002/AI-Powered-Phishing-Detection-API)  
+**Tools:** Docker, Python, Postman, Pandas, Sklearn
 
 ### SOAR EDR Lab
 Simulated real-world enterprise environments to practice blue and red team operations, including log analysis and group policy management.  
