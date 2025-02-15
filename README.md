@@ -13,7 +13,7 @@ Welcome to my GitHub portfolio! I am a cybersecurity student at Pennsylvania Sta
 
 ---
 
-## 🚀 Featured Projects  
+## Featured Projects  
 
 ### ⭐ SOAR EDR Lab
 **Enterprise Security Orchestration & Response Automation**  
@@ -37,9 +37,9 @@ Implemented secure AD infrastructure with real-time monitoring and privilege esc
 
 ---
 
-## 🔧 Other Notable Projects
+## Other Notable Projects
 
-### 🔥 Secure Database Administration & Security  
+### Secure Database Administration & Security  
 **Web-Based SQL Management System**  
 Developing secure PHP interface for database operations with role-based access control.  
 **Status:** ![Ongoing](https://img.shields.io/badge/Status-Ongoing-blue)  
@@ -96,12 +96,5 @@ Developed Splunk alerts for suspicious database activities and access patterns.
 
 ---
 
-## 💬 Let's Connect  
-![Coding Animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)  
-
-**Reach me at:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/javiero/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:javo@psu.edu)
-
-> *"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."*  
-> *– Gene Spafford | Updated: August 2023*
+> *"An ounce of prevention is worth a pound of cure."*  
+> *– Benjamin Franklin
