@@ -98,6 +98,6 @@ Developed Splunk alerts for suspicious database activities and access patterns.
  
 ![Coding Animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 > *"An ounce of prevention is worth a pound of cure."*  
-> *– Benjamin Franklin
+> *– Benjamin Franklin*
 
 ## 💬 Let's Connect 
