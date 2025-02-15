@@ -7,7 +7,7 @@ Welcome to my GitHub portfolio! I am a cybersecurity student at Pennsylvania Sta
 ## 🏆 Certifications
 | Certification        | Issued By       | Date        | Link                      |
 |----------------------|-----------------|-------------|---------------------------|
-| Network+ | CompTIA | 02/2025 | |
+| Network+ | CompTIA | 03/2025 | |
 | Security+            | CompTIA         | 07/2024     | [View Certification](https://www.credly.com/badges/5386daf1-dd5a-4637-a0f3-fbc3b5e3eaac/public_url) |
 | Google Cybersecurity Specialization | Coursera     | 07/2024     | [View Certification](https://www.coursera.org/account/accomplishments/specialization/3KAZ2UT5LSAS) |
 
@@ -18,7 +18,7 @@ Welcome to my GitHub portfolio! I am a cybersecurity student at Pennsylvania Sta
 ### Secure Database Administration & Security
 **Deployed a Webspace that utilizes PHP for SQL database manipulation**
 **Date:** Ongoing  
-**Tools:** Docker, Python, Postman, Pandas, Sklearn
+**Tools:** PHP, HTML, MySQL, VSCode
 
 ### AI-Powered Phishing Detection API
 **Deployed Machine Learning API for Phishing Detection, Tested on up to 85,000 Emails, and Hosted Locally for Evaluating Email Legitimacy and URL Authenticity.**
