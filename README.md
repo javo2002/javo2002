@@ -95,6 +95,9 @@ Developed Splunk alerts for suspicious database activities and access patterns.
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&color=rgba(240,240,240,0.8))
 
 ---
-
+ 
+![Coding Animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 > *"An ounce of prevention is worth a pound of cure."*  
 > *– Benjamin Franklin
+
+## 💬 Let's Connect 
