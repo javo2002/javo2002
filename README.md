@@ -15,6 +15,11 @@ Welcome to my GitHub portfolio! I am a cybersecurity student at Pennsylvania Sta
 
 ## 🚀 Projects  
 
+### Secure Database Administration & Security
+**Deployed a Webspace that utilizes PHP for SQL database manipulation**
+**Date:** Ongoing  
+**Tools:** Docker, Python, Postman, Pandas, Sklearn
+
 ### AI-Powered Phishing Detection API
 **Deployed Machine Learning API for Phishing Detection, Tested on up to 85,000 Emails, and Hosted Locally for Evaluating Email Legitimacy and URL Authenticity.**
 **Date:** 02/2025  
