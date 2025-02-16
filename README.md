@@ -82,7 +82,7 @@ Analyzed 50+ malicious PCAP files to identify C2 traffic patterns.
 **Date:** 09/2024  
 [![View Project](https://img.shields.io/badge/View-Repo-blue)](https://github.com/javo2002/Wireshark-Basics)  
 **Tech Stack:**  
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&color=rgba(240,240,240,0.8)) 
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&color=rgba(240,240,240,0.4)) 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&color=rgba(240,240,240,0.8))
 
 ### Customer Database SIEM Integration  
