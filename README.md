@@ -31,9 +31,9 @@ Implemented secure AD infrastructure with real-time monitoring and privilege esc
 **Date:** 07/2024  
 [![View Project](https://img.shields.io/badge/View-Project-informational)](https://github.com/javo2002/Active-Directory-Analysis)  
 **Tech Stack:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&color=rgba(240,240,240,0.8)) 
-![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk&color=rgba(240,240,240,0.8)) 
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&color=rgba(240,240,240,0.8))
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&color=rgba(240,240,240,0.6)) 
+![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk&color=rgba(240,240,240,0.6)) 
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&color=rgba(240,240,240,0.6))
 
 ---
 
@@ -45,9 +45,9 @@ Developing secure PHP interface for database operations with role-based access c
 **Status:** ![Ongoing](https://img.shields.io/badge/Status-Ongoing-blue)  
 [![View Project](https://img.shields.io/badge/View-Repo-critical)](https://github.com/javo2002/Database-Security-Webspace)  
 **Tech Stack:**  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&color=rgba(240,240,240,0.8)) 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&color=rgba(240,240,240,0.8)) 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&color=rgba(240,240,240,0.8))
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&color=rgba(240,240,240,0.6)) 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&color=rgba(240,240,240,0.6)) 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&color=rgba(240,240,240,0.6))
 
 ### AI-Powered Phishing Detection API  
 **ML Security Solution | 98% Accuracy**  
@@ -55,8 +55,8 @@ Developed classification engine processing 85k+ emails with Dockerized deploymen
 **Date:** 02/2025  
 [![View Project](https://img.shields.io/badge/View-Project-success)](https://github.com/javo2002/AI-Powered-Phishing-Detection-API)  
 **Tech Stack:**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&color=rgba(240,240,240,0.8)) 
-![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-F7931E?style=flat&logo=scikitlearn&color=rgba(240,240,240,0.8))
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&color=rgba(240,240,240,0.6)) 
+![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-F7931E?style=flat&logo=scikitlearn&color=rgba(240,240,240,0.6))
 
 ### Firewall Configuration with VyOS  
 **Multi-Zone Network Security**  
@@ -64,8 +64,8 @@ Implemented advanced firewall policies for network segmentation and traffic filt
 **Date:** 10/2024  
 [![View Project](https://img.shields.io/badge/View-Project-success)](https://github.com/javo2002/Firewall-Configuration-VyOS)  
 **Tech Stack:**  
-![VyOS](https://img.shields.io/badge/-VyOS-00A8E1?style=flat&color=rgba(240,240,240,0.8)) 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&color=rgba(240,240,240,0.8))
+![VyOS](https://img.shields.io/badge/-VyOS-00A8E1?style=flat&color=rgba(240,240,240,0.6)) 
+!![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&color=rgba(240,240,240,0.6))
 
 ### Honeypot Lab  
 **Attack Pattern Analysis**  
@@ -73,8 +73,8 @@ Collected & analyzed 5,000+ malicious interactions using custom honeypot configu
 **Date:** 12/2024  
 [![View Project](https://img.shields.io/badge/View-Repo-informational)](https://github.com/javo2002/Cowrie-Honeypot)  
 **Tech Stack:**  
-![Cowrie](https://img.shields.io/badge/-Cowrie-8A2BE2?style=flat&color=rgba(240,240,240,0.8)) 
-![ELK](https://img.shields.io/badge/-ELK_Stack-005571?style=flat&color=rgba(240,240,240,0.8))
+![Cowrie](https://img.shields.io/badge/-Cowrie-8A2BE2?style=flat&color=rgba(240,240,240,0.6)) 
+![ELK](https://img.shields.io/badge/-ELK_Stack-005571?style=flat&color=rgba(240,240,240,0.6))
 
 ### Wireshark Analysis Lab  
 **Network Forensics Investigation**  
