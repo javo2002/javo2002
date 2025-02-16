@@ -84,7 +84,7 @@ Analyzed 50+ malicious PCAP files to identify C2 traffic patterns.
 **Date:** 09/2024  
 [![View Project](https://img.shields.io/badge/View-Repo-blue)](https://github.com/javo2002/Wireshark-Basics)  
 **Tech Stack:**  
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&color=rgba(240,240,240,0.6)) 
+[Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&color=rgba(240,240,240,0.6)) 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&color=rgba(240,240,240,0.6))
 
 ### Customer Database SIEM Integration  
@@ -93,8 +93,8 @@ Developed Splunk alerts for suspicious database activities and access patterns.
 **Date:** 07/2024  
 [![View Project](https://img.shields.io/badge/View-Repo-important)](https://github.com/javo2002/Customer-Database-SIEM-Analysis)  
 **Tech Stack:**  
-![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk&color=rgba(240,240,240,0.8)) 
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&color=rgba(240,240,240,0.8))
+![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk&color=rgba(240,240,240,0.6)) 
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&color=rgba(240,240,240,0.6))
 
 ---
  
