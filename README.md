@@ -65,7 +65,9 @@ Implemented advanced firewall policies for network segmentation and traffic filt
 [![View Project](https://img.shields.io/badge/View-Project-success)](https://github.com/javo2002/Firewall-Configuration-VyOS)  
 **Tech Stack:**  
 ![VyOS](https://img.shields.io/badge/-VyOS-00A8E1?style=flat&color=rgba(240,240,240,0.6)) 
-!![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&color=rgba(240,240,240,0.6))
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&color=rgba(240,240,240,0.6))
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&color=rgba(240,240,240,0.6))
+
 
 ### Honeypot Lab  
 **Attack Pattern Analysis**  
