@@ -21,9 +21,9 @@ Simulated enterprise environments with automated incident response workflows and
 **Date:** 01/2025  
 [![View Project](https://img.shields.io/badge/View-Project-informational)](https://github.com/javo2002/SOAR-EDR)  
 **Tech Stack:**  
-![LimaCharlie](https://img.shields.io/badge/-LimaCharlie-FF6C37?style=flat&color=rgba(240,240,240,0.8)) 
-![Tines](https://img.shields.io/badge/-Tines-00C7B7?style=flat&color=rgba(240,240,240,0.8)) 
-![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&color=rgba(240,240,240,0.8))
+![LimaCharlie](https://img.shields.io/badge/-LimaCharlie-FF6C37?style=flat&color=rgba(240,240,240,0.6)) 
+![Tines](https://img.shields.io/badge/-Tines-00C7B7?style=flat&color=rgba(240,240,240,0.6)) 
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&color=rgba(240,240,240,0.6))
 
 ### ⭐ Active Directory Lab  
 **Enterprise Network Defense Simulation**  
@@ -82,8 +82,8 @@ Analyzed 50+ malicious PCAP files to identify C2 traffic patterns.
 **Date:** 09/2024  
 [![View Project](https://img.shields.io/badge/View-Repo-blue)](https://github.com/javo2002/Wireshark-Basics)  
 **Tech Stack:**  
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&color=rgba(240,240,240,0.4)) 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&color=rgba(240,240,240,0.8))
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&color=rgba(240,240,240,0.6)) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&color=rgba(240,240,240,0.6))
 
 ### Customer Database SIEM Integration  
 **Automated Threat Detection**  
