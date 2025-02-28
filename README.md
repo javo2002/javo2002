@@ -21,25 +21,26 @@ Simulated enterprise environments with automated incident response workflows and
 **Date:** 01/2025  
 [![View Project](https://img.shields.io/badge/View-Project-informational)](https://github.com/javo2002/SOAR-EDR)  
 **Tech Stack:**  
-- LimaCharlie  
-- Tines: SOAR playbook
-- Slack  
+- LimaCharlie - Endpoint Detection and Response platform
+- Tines - SOAR playbook
+- Slack - Communication platform for automated alerts to SOC analyst channels
 
-### ⭐ Active Directory Lab  
+### ⭐ Active Directory (AD) Lab  
 **Enterprise Network Defense Simulation**  
 Implemented secure AD infrastructure with real-time monitoring and privilege escalation detection.  
 **Date:** 07/2024  
 [![View Project](https://img.shields.io/badge/View-Project-informational)](https://github.com/javo2002/Active-Directory-Analysis)  
 **Tech Stack:**  
-- Python  
-- Splunk  
-- Windows  
+- Linux - Simulate brute force attack against AD users
+- Splunk - Log aggregation and alerts
+- Windows 10 - Vulnerable endpoint within AD
+- Windows Server 2016 - Active Directory services
 
 ---
 
-## 🔥 **Framework Implementation Projects**  
+## **Framework Implementation Projects**  
 
-### ⭐ NIST CSF 2.0 Simulation  
+### NIST CSF 2.0 Simulation  
 **Cybersecurity Framework Implementation**  
 Simulated the implementation of NIST CSF 2.0 controls in a multi-layered enterprise environment, focusing on Identify, Protect, Detect, Respond, and Recover functions.  
 **Date:** 11/2024  
@@ -68,11 +69,10 @@ Analyzed 50+ malicious PCAP files to identify C2 traffic patterns.
 [![View Project](https://img.shields.io/badge/View-Repo-blue)](https://github.com/javo2002/Wireshark-Basics)  
 **Tech Stack:**  
 - Wireshark  
-- Python  
 
 ---
 
-## 💾 **Database Projects**  
+## **Database Projects**  
 
 ### Secure Database Administration & Security  
 **Web-Based SQL Management System**  
@@ -90,12 +90,13 @@ Developed Splunk alerts for suspicious database activities and access patterns.
 **Date:** 07/2024  
 [![View Project](https://img.shields.io/badge/View-Repo-important)](https://github.com/javo2002/Customer-Database-SIEM-Analysis)  
 **Tech Stack:**  
-- Splunk  
-- SQLite  
+- Splunk - Aggregate logs and generate alerts
+- SQLite - Collect customer sign-up information
+- Python - Scripts to simulate database generation and log information
 
 ---
 
-## 🔍 **Security & Forensics Projects**  
+## **Education & Awareness Projects**  
 
 ### AI-Powered Phishing Detection API  
 **ML Security Solution | 93% Accuracy**  
@@ -105,15 +106,6 @@ Developed classification engine processing 85k+ emails with Dockerized deploymen
 **Tech Stack:**  
 - Docker  
 - Scikit-learn  
-
-### Honeypot Lab  
-**Attack Pattern Analysis**  
-Collected & analyzed 5,000+ malicious interactions using custom honeypot configuration.  
-**Date:** 12/2024  
-[![View Project](https://img.shields.io/badge/View-Repo-informational)](https://github.com/javo2002/Cowrie-Honeypot)  
-**Tech Stack:**  
-- Cowrie  
-- ELK Stack  
 
 ---
 
