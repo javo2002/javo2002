@@ -18,7 +18,7 @@ Welcome to my GitHub portfolio! I am a cybersecurity student at Pennsylvania Sta
 **Data Science Researcher** | *Pennsylvania State University*  
 Implemented a sentiment analyzer on financial tickers through deep learning scripts.  
 **Date:** 05/2024 - 08/2024  
-[![View Project](https://img.shields.io/badge/View-Project-informational)](https://github.com/javo2002/finnhub_fsa)    
+[![View Project](https://img.shields.io/badge/View-Project-informational)](https://github.com/javo2002/finviz_fsa)    
 **Tech Stack:**  
 - Python - Deeplearning scripts
 - Finnhub - Financial data API
