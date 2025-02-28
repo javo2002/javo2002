@@ -104,8 +104,8 @@ Developed classification engine processing 85k+ emails with Dockerized deploymen
 **Date:** 02/2025  
 [![View Project](https://img.shields.io/badge/View-Project-success)](https://github.com/javo2002/AI-Powered-Phishing-Detection-API)  
 **Tech Stack:**  
-- Docker  
-- Scikit-learn  
+- Python - Scripts to handle machine learning models
+- HTML/CSS - Front-end display
 
 ---
 
