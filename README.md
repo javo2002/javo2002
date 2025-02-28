@@ -11,7 +11,7 @@ Welcome to my GitHub portfolio! I am a cybersecurity student at Pennsylvania Sta
 | Security+            | CompTIA         | 07/2024     | [View Certification](https://www.credly.com/badges/5386daf1-dd5a-4637-a0f3-fbc3b5e3eaac/public_url) |
 | Google Cybersecurity Specialization | Coursera     | 07/2024     | [View Certification](https://www.coursera.org/account/accomplishments/specialization/3KAZ2UT5LSAS) |
 
-----
+----------
 
 ## **Professional Research Projects**
 
