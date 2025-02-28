@@ -13,17 +13,17 @@ Welcome to my GitHub portfolio! I am a cybersecurity student at Pennsylvania Sta
 
 ---
 
-## Featured Projects  
+## **SOC Projects (Featured)**  
 
-### ⭐ SOAR EDR Lab
+### ⭐ SOAR EDR Lab  
 **Enterprise Security Orchestration & Response Automation**  
 Simulated enterprise environments with automated incident response workflows and threat containment strategies.  
 **Date:** 01/2025  
 [![View Project](https://img.shields.io/badge/View-Project-informational)](https://github.com/javo2002/SOAR-EDR)  
 **Tech Stack:**  
-![LimaCharlie](https://img.shields.io/badge/-LimaCharlie-FF6C37?style=flat&color=rgba(240,240,240,0.6)) 
-![Tines](https://img.shields.io/badge/-Tines-00C7B7?style=flat&color=rgba(240,240,240,0.6)) 
-![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&color=rgba(240,240,240,0.6))
+- LimaCharlie  
+- Tines: SOAR playbook
+- Slack  
 
 ### ⭐ Active Directory Lab  
 **Enterprise Network Defense Simulation**  
@@ -31,32 +31,26 @@ Implemented secure AD infrastructure with real-time monitoring and privilege esc
 **Date:** 07/2024  
 [![View Project](https://img.shields.io/badge/View-Project-informational)](https://github.com/javo2002/Active-Directory-Analysis)  
 **Tech Stack:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&color=rgba(240,240,240,0.6)) 
-![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk&color=rgba(240,240,240,0.6)) 
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&color=rgba(240,240,240,0.6))
+- Python  
+- Splunk  
+- Windows  
 
 ---
 
-## Other Notable Projects
+## 🔥 **Framework Implementation Projects**  
 
-### Secure Database Administration & Security  
-**Web-Based SQL Management System**  
-Developing secure PHP interface for database operations with role-based access control.  
-**Status:** ![Ongoing](https://img.shields.io/badge/Status-Ongoing-blue)  
-[![View Project](https://img.shields.io/badge/View-Repo-critical)](https://github.com/javo2002/Database-Security-Webspace)  
+### ⭐ NIST CSF 2.0 Simulation  
+**Cybersecurity Framework Implementation**  
+Simulated the implementation of NIST CSF 2.0 controls in a multi-layered enterprise environment, focusing on Identify, Protect, Detect, Respond, and Recover functions.  
+**Date:** 11/2024  
+[![View Project](https://img.shields.io/badge/View-Project-success)](https://github.com/javo2002/nist-csf-2.0-simulation)  
 **Tech Stack:**  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&color=rgba(240,240,240,0.6)) 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&color=rgba(240,240,240,0.6)) 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&color=rgba(240,240,240,0.6))
+- NIST CSF 2.0 - Reference
+- DeepSeek - File structure 
 
-### AI-Powered Phishing Detection API  
-**ML Security Solution | 93% Accuracy**  
-Developed classification engine processing 85k+ emails with Dockerized deployment.  
-**Date:** 02/2025  
-[![View Project](https://img.shields.io/badge/View-Project-success)](https://github.com/javo2002/AI-Powered-Phishing-Detection-API)  
-**Tech Stack:**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&color=rgba(240,240,240,0.6)) 
-![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-F7931E?style=flat&logo=scikitlearn&color=rgba(240,240,240,0.6))
+---
+
+## 🌐 **Network Projects**  
 
 ### Firewall Configuration with VyOS  
 **Multi-Zone Network Security**  
@@ -64,19 +58,8 @@ Implemented advanced firewall policies for network segmentation and traffic filt
 **Date:** 10/2024  
 [![View Project](https://img.shields.io/badge/View-Project-success)](https://github.com/javo2002/Firewall-Configuration-VyOS)  
 **Tech Stack:**  
-![VyOS](https://img.shields.io/badge/-VyOS-00A8E1?style=flat&color=rgba(240,240,240,0.6)) 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&color=rgba(240,240,240,0.6))
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&color=rgba(240,240,240,0.6))
-
-
-### Honeypot Lab  
-**Attack Pattern Analysis**  
-Collected & analyzed 5,000+ malicious interactions using custom honeypot configuration.  
-**Date:** 12/2024  
-[![View Project](https://img.shields.io/badge/View-Repo-informational)](https://github.com/javo2002/Cowrie-Honeypot)  
-**Tech Stack:**  
-![Cowrie](https://img.shields.io/badge/-Cowrie-8A2BE2?style=flat&color=rgba(240,240,240,0.6)) 
-![ELK](https://img.shields.io/badge/-ELK_Stack-005571?style=flat&color=rgba(240,240,240,0.6))
+- VyOS  
+- Linux  
 
 ### Wireshark Analysis Lab  
 **Network Forensics Investigation**  
@@ -84,8 +67,22 @@ Analyzed 50+ malicious PCAP files to identify C2 traffic patterns.
 **Date:** 09/2024  
 [![View Project](https://img.shields.io/badge/View-Repo-blue)](https://github.com/javo2002/Wireshark-Basics)  
 **Tech Stack:**  
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&color=rgba(240,240,240,0.6)) 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&color=rgba(240,240,240,0.6))
+- Wireshark  
+- Python  
+
+---
+
+## 💾 **Database Projects**  
+
+### Secure Database Administration & Security  
+**Web-Based SQL Management System**  
+Developing secure PHP interface for database operations with role-based access control.  
+**Status:** ![Ongoing](https://img.shields.io/badge/Status-Ongoing-blue)  
+[![View Project](https://img.shields.io/badge/View-Repo-critical)](https://github.com/javo2002/Database-Security-Webspace)  
+**Tech Stack:**  
+- PHP  
+- MySQL  
+- HTML  
 
 ### Customer Database SIEM Integration  
 **Automated Threat Detection**  
@@ -93,13 +90,37 @@ Developed Splunk alerts for suspicious database activities and access patterns.
 **Date:** 07/2024  
 [![View Project](https://img.shields.io/badge/View-Repo-important)](https://github.com/javo2002/Customer-Database-SIEM-Analysis)  
 **Tech Stack:**  
-![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk&color=rgba(240,240,240,0.6)) 
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&color=rgba(240,240,240,0.6))
+- Splunk  
+- SQLite  
 
 ---
- 
+
+## 🔍 **Security & Forensics Projects**  
+
+### AI-Powered Phishing Detection API  
+**ML Security Solution | 93% Accuracy**  
+Developed classification engine processing 85k+ emails with Dockerized deployment.  
+**Date:** 02/2025  
+[![View Project](https://img.shields.io/badge/View-Project-success)](https://github.com/javo2002/AI-Powered-Phishing-Detection-API)  
+**Tech Stack:**  
+- Docker  
+- Scikit-learn  
+
+### Honeypot Lab  
+**Attack Pattern Analysis**  
+Collected & analyzed 5,000+ malicious interactions using custom honeypot configuration.  
+**Date:** 12/2024  
+[![View Project](https://img.shields.io/badge/View-Repo-informational)](https://github.com/javo2002/Cowrie-Honeypot)  
+**Tech Stack:**  
+- Cowrie  
+- ELK Stack  
+
+---
+
 ![Coding Animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 > *"An ounce of prevention is worth a pound of cure."*  
 > *– Benjamin Franklin*
 
 ## 💬 Let's Connect 
+
+---
