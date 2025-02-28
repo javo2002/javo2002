@@ -15,14 +15,16 @@ Welcome to my GitHub portfolio! I am a cybersecurity student at Pennsylvania Sta
 
 ## **Professional Research Projects**
 
-**Data Science Researcher** | *Pennsylvania State University* 
+**Data Science Researcher** | *Pennsylvania State University*  
 Implemented a sentiment analyzer on financial tickers through deep learning scripts.  
 **Date:** 05/2024 - 08/2024
 [![View Project](https://img.shields.io/badge/View-Project-informational)](https://github.com/javo2002/SOAR-EDR)  
 **Tech Stack:**  
-- LimaCharlie - Endpoint Detection and Response platform
+- Python - Deeplearning scripts
 - Tines - SOAR playbook
 - Slack - Communication platform for automated alerts to SOC analyst channels
+
+---
 
 ## **SOC Projects (Featured)**  
 
