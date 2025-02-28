@@ -13,7 +13,7 @@ Welcome to my GitHub portfolio! I am a cybersecurity student at Pennsylvania Sta
 
 ---
 
-## **Professional Research Projects**
+#### **Professional Research Projects**
 
 **Data Science Researcher** | *Pennsylvania State University*  
 Implemented a sentiment analyzer on financial tickers through deep learning scripts.  
