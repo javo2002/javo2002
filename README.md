@@ -73,19 +73,6 @@ Developed classification engine processing 85k+ emails with Dockerized deploymen
 
 ---
 
-## **Framework Implementation Projects**  
-
-### NIST CSF 2.0 Simulation  
-**Cybersecurity Framework Implementation**  
-Simulated the implementation of NIST CSF 2.0 controls for a small fictitious business, focusing on Identify, Protect, Detect, Respond, and Recover functions.  
-**Date:** 11/2024  
-[![View Project](https://img.shields.io/badge/View-Project-informational)](https://github.com/javo2002/nist-csf-2.0-simulation)  
-**Tech Stack:**  
-- NIST CSF 2.0 - Reference
-- DeepSeek - File structure 
-
----
-
 ## 🌐 **Network Projects**  
 
 ### Firewall Configuration with VyOS  
