@@ -56,7 +56,7 @@ Implemented secure AD infrastructure with real-time monitoring and privilege esc
 **Cybersecurity Framework Implementation**  
 Simulated the implementation of NIST CSF 2.0 controls for a small fictitious business, focusing on Identify, Protect, Detect, Respond, and Recover functions.  
 **Status:** Ongoing  
-[![View Project](https://img.shields.io/badge/View-Project-success)](https://github.com/javo2002/nist-csf-2.0-simulation)  
+[![View Project](https://img.shields.io/badge/View-Project-informational)](https://github.com/javo2002/nist-csf-2.0-simulation)  
 **Tech Stack:**  
 - NIST CSF 2.0 - Reference
 - DeepSeek - File structure
@@ -65,7 +65,7 @@ Simulated the implementation of NIST CSF 2.0 controls for a small fictitious bus
 **ML Security Solution | 93% Accuracy**  
 Developed classification engine processing 85k+ emails with Dockerized deployment.  
 **Status:** Ongoing  
-[![View Project](https://img.shields.io/badge/View-Project-success)](https://github.com/javo2002/AI-Powered-Phishing-Detection-API)  
+[![View Project](https://img.shields.io/badge/View-Project-Informational)](https://github.com/javo2002/AI-Powered-Phishing-Detection-API)  
 **Tech Stack:**  
 - Python - Scripts to handle machine learning models
 - HTML/CSS - Front-end display
@@ -78,7 +78,7 @@ Developed classification engine processing 85k+ emails with Dockerized deploymen
 **Cybersecurity Framework Implementation**  
 Simulated the implementation of NIST CSF 2.0 controls for a small fictitious business, focusing on Identify, Protect, Detect, Respond, and Recover functions.  
 **Date:** 11/2024  
-[![View Project](https://img.shields.io/badge/View-Project-success)](https://github.com/javo2002/nist-csf-2.0-simulation)  
+[![View Project](https://img.shields.io/badge/View-Project-informational)](https://github.com/javo2002/nist-csf-2.0-simulation)  
 **Tech Stack:**  
 - NIST CSF 2.0 - Reference
 - DeepSeek - File structure 
@@ -91,7 +91,7 @@ Simulated the implementation of NIST CSF 2.0 controls for a small fictitious bus
 **Multi-Zone Network Security**  
 Implemented advanced firewall policies for network segmentation and traffic filtering.  
 **Date:** 10/2024  
-[![View Project](https://img.shields.io/badge/View-Project-success)](https://github.com/javo2002/Firewall-Configuration-VyOS)  
+[![View Project](https://img.shields.io/badge/View-Project-Informational)](https://github.com/javo2002/Firewall-Configuration-VyOS)  
 **Tech Stack:**  
 - VyOS  
 - Linux  
@@ -100,7 +100,7 @@ Implemented advanced firewall policies for network segmentation and traffic filt
 **Network Forensics Investigation**  
 Analyzed 50+ malicious PCAP files to identify C2 traffic patterns.  
 **Date:** 09/2024  
-[![View Project](https://img.shields.io/badge/View-Repo-blue)](https://github.com/javo2002/Wireshark-Basics)  
+[![View Project](https://img.shields.io/badge/View-Project-Informational)](https://github.com/javo2002/Wireshark-Basics)  
 **Tech Stack:**  
 - Wireshark  
 
@@ -111,8 +111,8 @@ Analyzed 50+ malicious PCAP files to identify C2 traffic patterns.
 ### Secure Database Administration & Security  
 **Web-Based SQL Management System**  
 Developing secure PHP interface for database operations with role-based access control.  
-**Status:** ![Ongoing](https://img.shields.io/badge/Status-Ongoing-blue)  
-[![View Project](https://img.shields.io/badge/View-Repo-critical)](https://github.com/javo2002/Database-Security-Webspace)  
+**Status:** Ongoing   
+[![View Project](https://img.shields.io/badge/View-Project-informational)](https://github.com/javo2002/Database-Security-Webspace)  
 **Tech Stack:**  
 - PHP  
 - MySQL  
@@ -122,7 +122,7 @@ Developing secure PHP interface for database operations with role-based access c
 **Automated Threat Detection**  
 Developed Splunk alerts for suspicious database activities and access patterns.  
 **Date:** 07/2024  
-[![View Project](https://img.shields.io/badge/View-Repo-important)](https://github.com/javo2002/Customer-Database-SIEM-Analysis)  
+[![View Project](https://img.shields.io/badge/View-Repo-informational)](https://github.com/javo2002/Customer-Database-SIEM-Analysis)  
 **Tech Stack:**  
 - Splunk - Aggregate logs and generate alerts
 - SQLite - Collect customer sign-up information
