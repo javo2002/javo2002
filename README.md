@@ -42,7 +42,7 @@ Implemented secure AD infrastructure with real-time monitoring and privilege esc
 
 ### NIST CSF 2.0 Simulation  
 **Cybersecurity Framework Implementation**  
-Simulated the implementation of NIST CSF 2.0 controls in a multi-layered enterprise environment, focusing on Identify, Protect, Detect, Respond, and Recover functions.  
+Simulated the implementation of NIST CSF 2.0 controls for a small fictitious business, focusing on Identify, Protect, Detect, Respond, and Recover functions.  
 **Date:** 11/2024  
 [![View Project](https://img.shields.io/badge/View-Project-success)](https://github.com/javo2002/nist-csf-2.0-simulation)  
 **Tech Stack:**  
