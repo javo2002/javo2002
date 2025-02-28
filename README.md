@@ -50,6 +50,28 @@ Implemented secure AD infrastructure with real-time monitoring and privilege esc
 
 ---
 
+## **Education & Awareness Projects**  
+
+### NIST CSF 2.0 Simulation  
+**Cybersecurity Framework Implementation**  
+Simulated the implementation of NIST CSF 2.0 controls for a small fictitious business, focusing on Identify, Protect, Detect, Respond, and Recover functions.  
+**Status:** ![Ongoing](https://img.shields.io/badge/Status-Ongoing-blue) 
+[![View Project](https://img.shields.io/badge/View-Project-success)](https://github.com/javo2002/nist-csf-2.0-simulation)  
+**Tech Stack:**  
+- NIST CSF 2.0 - Reference
+- DeepSeek - File structure
+
+### AI-Powered Phishing Detection API  
+**ML Security Solution | 93% Accuracy**  
+Developed classification engine processing 85k+ emails with Dockerized deployment.  
+**Status:** ![Ongoing](https://img.shields.io/badge/Status-Ongoing-blue) 
+[![View Project](https://img.shields.io/badge/View-Project-success)](https://github.com/javo2002/AI-Powered-Phishing-Detection-API)  
+**Tech Stack:**  
+- Python - Scripts to handle machine learning models
+- HTML/CSS - Front-end display
+
+---
+
 ## **Framework Implementation Projects**  
 
 ### NIST CSF 2.0 Simulation  
@@ -105,19 +127,6 @@ Developed Splunk alerts for suspicious database activities and access patterns.
 - Splunk - Aggregate logs and generate alerts
 - SQLite - Collect customer sign-up information
 - Python - Scripts to simulate database generation and log information
-
----
-
-## **Education & Awareness Projects**  
-
-### AI-Powered Phishing Detection API  
-**ML Security Solution | 93% Accuracy**  
-Developed classification engine processing 85k+ emails with Dockerized deployment.  
-**Date:** 02/2025  
-[![View Project](https://img.shields.io/badge/View-Project-success)](https://github.com/javo2002/AI-Powered-Phishing-Detection-API)  
-**Tech Stack:**  
-- Python - Scripts to handle machine learning models
-- HTML/CSS - Front-end display
 
 ---
 
