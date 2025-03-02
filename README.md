@@ -1,6 +1,6 @@
 # Hi, I'm Javier 👋  
 
-Welcome to my GitHub portfolio! I am a cybersecurity student at Pennsylvania State University with a passion for solving real-world cybersecurity challenges. My expertise lies in SOC operations, Digital Forensics, and Threat Intelligence. I am currently pursuing the Network+ certification for networking knowledge and aiming to grow as a Cyber Defender.
+Welcome to my GitHub portfolio! I am a cybersecurity student at Pennsylvania State University with a passion for solving real-world cybersecurity challenges. My expertise lies in SOC operations, digital forensics, and threat intelligence. I am currently pursuing the Network+ certification for networking knowledge and aiming to grow as a Cyber Defender.
 
 ---
 
