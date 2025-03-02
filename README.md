@@ -102,9 +102,9 @@ Developing secure PHP interface for database operations with role-based access c
 **Status:** Ongoing   
 [![View Project](https://img.shields.io/badge/View-Project-informational)](https://github.com/javo2002/Database-Security-Webspace)  
 **Tech Stack:**  
-- PHP  
-- MySQL  
-- HTML  
+- PHP - Dynamically change database output through webpages
+- MySQL - Database platform to collect data
+- HTML - Structure of the webpage
 
 ### Customer Database SIEM Integration  
 **Automated Threat Detection**  
