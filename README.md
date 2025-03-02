@@ -53,7 +53,7 @@ Implemented secure AD infrastructure with real-time monitoring and privilege esc
 
 ## **Education & Awareness Projects**  
 
-### NIST CSF 2.0 Simulation  
+### 📚 NIST CSF 2.0 Simulation  
 **Cybersecurity Framework Implementation**  
 Simulated the implementation of NIST CSF 2.0 controls for a small fictitious business, focusing on Identify, Protect, Detect, Respond, and Recover functions.  
 **Status:** Ongoing  
@@ -62,7 +62,7 @@ Simulated the implementation of NIST CSF 2.0 controls for a small fictitious bus
 - NIST CSF 2.0 - Reference
 - DeepSeek - File structure
 
-### AI-Powered Phishing Detection API  
+### 📚 AI-Powered Phishing Detection API  
 **ML Security Solution | 93% Accuracy**  
 Developed classification engine processing 85k+ emails with Dockerized deployment.  
 **Status:** Ongoing  
@@ -73,7 +73,7 @@ Developed classification engine processing 85k+ emails with Dockerized deploymen
 
 ---
 
-## 🌐 **Network Projects**  
+## **Network Projects**  
 
 ### Firewall Configuration with VyOS  
 **Multi-Zone Network Security**  
