@@ -1,6 +1,7 @@
 # Hi, I'm Javier 👋  
 
 Welcome to my GitHub portfolio! I am a Cybersecurity graduate from The Pennsylvania State University with a passion for solving real-world cybersecurity challenges. My expertise includes SIEM event correlation (Splunk), log analysis, incident response, and more. Explore my projects to see how I apply frameworks like NIST CSF, automate detection workflows, and investigate security incidents to strengthen cyber defense strategies.
+
 ---
 
 ## 🏆 Certifications
