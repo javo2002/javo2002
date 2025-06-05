@@ -1,7 +1,6 @@
 # Hi, I'm Javier 👋  
 
-Welcome to my GitHub portfolio! I am a cybersecurity student at Pennsylvania State University with a passion for solving real-world cybersecurity challenges. My expertise lies in SOC operations, digital forensics, and threat intelligence. I am currently pursuing the Network+ certification for networking knowledge and aiming to grow as a Cyber Defender.
-
+Welcome to my GitHub portfolio! I am a Cybersecurity graduate from The Pennsylvania State University with a passion for solving real-world cybersecurity challenges. My expertise includes SIEM event correlation (Splunk), log analysis, incident response, and more. Explore my projects to see how I apply frameworks like NIST CSF, automate detection workflows, and investigate security incidents to strengthen cyber defense strategies.
 ---
 
 ## 🏆 Certifications
