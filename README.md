@@ -7,7 +7,7 @@ Welcome to my GitHub portfolio! I am a cybersecurity student at Pennsylvania Sta
 ## 🏆 Certifications
 | Certification        | Issued By       | Date        | Link                      |
 |----------------------|-----------------|-------------|---------------------------|
-| CCNA | CompTIA | Expected 07/2025 | |
+| CCNA | Cisco | Expected 07/2025 | |
 | Network+ | CompTIA | 05/2025 | [View Certification](https://www.credly.com/badges/896bc653-8d65-4b1d-8a54-a2628f645ced/public_url) |
 | A+ | CompTIA | 05/2025 | [View Certification](https://www.credly.com/badges/896bc653-8d65-4b1d-8a54-a2628f645ced/public_url) |
 | Security+            | CompTIA         | 07/2024     | [View Certification](https://www.credly.com/badges/5386daf1-dd5a-4637-a0f3-fbc3b5e3eaac/public_url) |
@@ -15,20 +15,7 @@ Welcome to my GitHub portfolio! I am a cybersecurity student at Pennsylvania Sta
 
 ---
 
-## **Professional Research Projects**
-
-### Financial Sentiment Analysis
-**Data Science Researcher** | *Pennsylvania State University*  
-Implemented a sentiment analyzer on financial tickers through deep learning scripts.  
-**Date:** 05/2024 - 08/2024  
-[![View Project](https://img.shields.io/badge/View-Project-informational)](https://github.com/javo2002/finviz_fsa)    
-**Tech Stack:**  
-- Python - Deeplearning scripts
-- Finnhub - Financial data API
-
----
-
-## **SOC Projects (Featured)**  
+## **SOC Related Projects (Featured)**  
 
 ### ⭐ SOAR EDR Lab  
 **Enterprise Security Orchestration & Response Automation**  
@@ -62,18 +49,6 @@ Simulated the implementation of NIST CSF 2.0 controls for a small fictitious bus
 [![View Project](https://img.shields.io/badge/View-Project-informational)](https://github.com/javo2002/nist-csf-2.0-simulation)  
 **Tech Stack:**  
 - NIST CSF 2.0 - Reference
-- DeepSeek - File structure
-
-### 📚 AI-Powered Phishing Detection API  
-**ML Security Solution | 93% Accuracy**  
-Developed classification engine processing 85k+ emails with Dockerized deployment.  
-**Status:** Ongoing  
-[![View Project](https://img.shields.io/badge/View-Project-informational)](https://github.com/javo2002/AI-Powered-Phishing-Detection-API)  
-**Tech Stack:**  
-- Python - Scripts to handle machine learning models
-- HTML/CSS - Front-end display
-
----
 
 ## **Network Projects**  
 
@@ -101,7 +76,7 @@ Analyzed 50+ malicious PCAP files to identify C2 traffic patterns.
 ### Secure Database Administration & Security  
 **Web-Based SQL Management System**  
 Developing secure PHP interface for database operations with role-based access control.  
-**Status:** Ongoing   
+**Status:** 04/2025  
 [![View Project](https://img.shields.io/badge/View-Project-informational)](https://github.com/javo2002/Database-Security-Webspace)  
 **Tech Stack:**  
 - PHP - Dynamically change database output through webpages
